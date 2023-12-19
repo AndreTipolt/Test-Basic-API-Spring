@@ -1,0 +1,11 @@
+tipolt\andre\backend\repositories\ProductRepository.class
+tipolt\andre\backend\services\CategoryService.class
+tipolt\andre\backend\dtos\CategoryDTO.class
+tipolt\andre\backend\repositories\CategoryRepository.class
+tipolt\andre\backend\controllers\CategoryController.class
+tipolt\andre\backend\services\ProductService.class
+tipolt\andre\backend\controllers\ProductController.class
+tipolt\andre\backend\dtos\ProductDTO.class
+tipolt\andre\backend\BackendApplication.class
+tipolt\andre\backend\models\CategoryModel.class
+tipolt\andre\backend\models\ProductModel.class
